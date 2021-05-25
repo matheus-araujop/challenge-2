@@ -32,3 +32,4 @@ let last_name = "Araujo"
 if(last_name.length >= 6 | name.substr(0, 1) === "E"){
     console.log("Seu nome começa com R ou seu sobrenome tem mais de 6 letras!!")
 }
+// Exercício Bônus 2
